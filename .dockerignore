@@ -1,0 +1,7 @@
+build/
+*.db
+.git
+cloudflared
+tunnel.log
+*.zip
+frontend-src
